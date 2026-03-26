@@ -50,7 +50,7 @@ The system stabilizes a beam using BLDC motors based on IMU feedback, while a Py
 
 ### 🔹 Python GUI (Real-Time Monitoring)
 
-File: `Grphical_Data.py`
+File: `beam_balance_gui.py`
 
 #### Features:
 
@@ -127,7 +127,7 @@ pip install pyserial matplotlib
 #### Step 3: Run GUI
 
 ```
-python Grphical_Data.py
+python beam_balance_gui.py
 ```
 
 ---
@@ -178,15 +178,8 @@ python Grphical_Data.py
 
 ---
 
-## 🎥 Demo (Recommended)
 
-Add your video link here:
-
-```
-https://your-demo-link
-```
-
----
+]
 
 ## 👤 Author
 
